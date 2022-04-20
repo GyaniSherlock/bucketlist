@@ -1,5 +1,7 @@
 **BucketList**: _A handy and user friendly todo Application built using **flask** and html along with **sqlLite** as database for keeping track of daily activites and task_
 
+**The Application is live on :** https://todo-gyanish.herokuapp.com/viewAlltodo
+
 Provides Funcationality of : 
   1) **Creating a new todo task**
   ![Screenshot 2022-04-20 at 9 49 12 PM](https://user-images.githubusercontent.com/46041733/164279281-1243c194-e474-4639-aae1-f031da871196.png)
